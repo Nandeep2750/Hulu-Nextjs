@@ -12,20 +12,20 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## This build created using...
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [Next.js](https://nextjs.org) - The React Framework for Production.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
+- [Rest API (TMDB database)](https://developers.themoviedb.org/3) - The Movie Database API.
+- [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## List of Features
+> Fully responsive for Mobile devices, Laptops & PC and as well as it's responsive for high-resolution screens like 2K & 4K.
 
-To learn more about Next.js, take a look at the following resources:
+> Lazy loading Images.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+> Flip animation gives a smooth experience.
 
 ## Deploy on Vercel
 
